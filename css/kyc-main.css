@@ -1,0 +1,17 @@
+
+#login .modal-content input[type="button"]{border:1px solid #25a2e3; background:#25a2e3; color:#fff!important; outline: 0; border: none!important;}
+
+#sign-up .modal-content input[type="button"]{border:1px solid #25a2e3; background:#25a2e3; color:#fff!important; outline: 0; border: none!important;}
+
+.blue-button{width:100%;padding: 10px; background: #387ccd;border: navajowhite;font-size: 17px;text-shadow: none;color: #fff;}
+.blue-button:hover {
+    color: #fff;
+    background-color: #25a2e3;
+}
+.modal-bg{background: #f7f7f7; color: #000;}
+.close-but{color: #000; margin-top: -10px;}
+.title-news{text-align: center;font-size: 35px; border-bottom: 1px dashed; padding-bottom: 10px;text-transform: uppercase; font-weight: 600;}
+.text-modal{ text-align: center; font-size:17px;}
+.bottom-text{text-align: center;font-size: 20px;}
+.cancel-button{width:100%; font-size: 17px;text-shadow: none;  padding: 10px;}
+
